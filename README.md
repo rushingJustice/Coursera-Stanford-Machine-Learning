@@ -1,4 +1,4 @@
-# Machine-Learning-MatLab-Coursera
+# Machine Learning in MatLab - Stanford (Coursera)
 # Language(s): MatLab
 A collection of machine learning algorithms for both supervised and unsupervised learning techniques. Written entirely in MatLab. Educational based.
 
