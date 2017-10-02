@@ -1,5 +1,6 @@
 # Machine-Learning-MatLab-Coursera
 A collection of machine learning algorithms for both supervised and unsupervised learning techniques. Written entirely in MatLab. Educational based.
+
 machine-learning-ex1	LINEAR REGRESSION
 machine-learning-ex2	LOGISTIC REGRESSION
 machine-learning-ex3	MULTI-CLASS CLASSIFICATION + NEURAL NETWORKS 
